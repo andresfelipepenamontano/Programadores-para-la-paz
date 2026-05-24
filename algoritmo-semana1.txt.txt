@@ -1,0 +1,11 @@
+ALGORITMO COMPARTIR INFORMACION CONFIABLE EN INTERNET
+
+1- Entrar A Internet
+2- buscar la información
+3-revisar si la fuente es verídica o no
+ES VERIDICA?
+SI: Seguir al paso 4
+NO: Volver al paso 3
+4- confirmar la información anteriormente buscada
+5-Subir la información al internet
+6-salir de internet
