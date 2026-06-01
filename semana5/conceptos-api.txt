@@ -1,0 +1,3 @@
+la ruta POST/reporte recibe un mensaje enviado por el usuario en el cuerpo de la solicitud y lo devuelve en formato JSON confirmando que fue recibido
+
+En una aplicacion comunitaria serviria para que los vecinos reporten problemas como daños en vias,fallas en servicios publicos o emergencias, y esa informacion llegaria organizada a las autoridades
