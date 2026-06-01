@@ -1,0 +1,3 @@
+REPOSTIORIO: Para mi, un repositorio es un espacio virtual o se podría llamar como carpeta inteligente doonde se puede guardar todo el código, archivos y configuración de un proyecto de software. Lo que diferencia un repositorio de una carpeta normal, es que este utiliza un sistema como Git para poder registrar el historial completo de cambios que se le ha hecho.
+COMMIT: commit es un comando en git que se utiliza principalmente para guardar el proceso en el que llevo del proyecto y poder regresar a esa versión exacta en el futuro si llega a fallar algo.
+PUSH: Push es el comando en git que se utiliza para subir y guardar las confirmaciones de la computadora a un repositorio en la nube como GitHub.

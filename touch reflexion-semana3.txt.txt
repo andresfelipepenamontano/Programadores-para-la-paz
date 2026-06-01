@@ -1,0 +1,3 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+
+es importante ya que nos da a nosotros como programadores velocidad absoluta para organizar archivos y automatizar tareas repetitivas sin depender del mouse. Además, Git se podría decir que actúa como una maquina del tiempo ya que protege el código contra errores, permitiendo que múltiples de nosotros desarrolladores colaboren en el mismo proyecto simultáneamente y sin caos. Por ultimo, es la única forma de administrar y desplegar software en servidores reales en la nube, donde no existen las interfaces graficas. 
