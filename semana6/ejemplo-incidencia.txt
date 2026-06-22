@@ -1,0 +1,4 @@
+{
+  "tipo": "Electricidad Disfuncional",
+  "descripcion": "La comunidad reporta que la electricidad de varios hogares no funciona desde hace varios días."
+}
