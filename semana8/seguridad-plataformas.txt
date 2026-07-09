@@ -1,0 +1,5 @@
+1. No exponer datos personales de los miembros en secciones públicas.
+2. Proteger las credenciales mediante políticas de contraseñas fuertes y autenticación en dos pasos (2FA).
+3. Usar conexiones seguras y cifradas (HTTPS) para proteger el tráfico de la plataforma.
+4. Registrar los accesos y acciones críticas para detectar ingresos sospechosos a tiempo.
+5. Limitar el acceso a información sensible mediante roles estrictos (coordinadores, moderadores, usuarios).
