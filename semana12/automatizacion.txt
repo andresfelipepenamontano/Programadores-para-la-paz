@@ -1,0 +1,5 @@
+DISEÑO DE AUTOMATIZACIÓN
+
+1. Evento activador: El flujo en n8n se dispara inmediatamente cuando el contador de apoyos de una causa específica alcanza la meta requerida de firmas comunitarias.
+2. Mensaje enviado (a Telegram):¡Meta alcanzada! La causa comunitaria ha completado con éxito todos los apoyos necesarios. El documento formal en PDF ya se encuentra generado en el servidor y listo para su revisión y radicación."
+3. Información que NO debe enviarse por seguridad: Bajo ninguna circunstancia se deben adjuntar nombres, números de cédula/documentos de identidad, direcciones físicas de residencia, ni comentarios privados de los participantes. Tampoco deben enviarse tokens internos o credenciales de administración del bot para evitar interceptaciones o ataques dirigidos a la organización ciudadana.

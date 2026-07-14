@@ -1,0 +1,18 @@
+MODELO DE DATOS "PETICIÓN EN 3 CLICS"
+
+Entidad: Causa
+- id (Número identificador único)
+- titulo (Texto que resume la problemática)
+- descripcion (Texto detallado de la solicitud formal)
+- fecha (Fecha y hora de creación de la petición)
+
+Explicación: Esta entidad sirve para registrar, estructurar y mantener un histórico de todas las propuestas o quejas radicadas por la comunidad en la plataforma.
+
+
+Entidad: Apoyo
+- id (Número identificador único)
+- causa_id (Número conector que asocia el voto a una causa específica)
+- hash_usuario (Identificador anónimo cifrado del usuario para evitar duplicados)
+- fecha (Fecha exacta en la que se registró el apoyo)
+
+Explicación: Esta entidad sirve para contabilizar el respaldo digital de cada causa de forma segura y transparente, evitando almacenar identidades directas o datos sensibles de los ciudadanos.

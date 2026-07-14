@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+1. Creación de la causa: Un líder comunitario o ciudadano ingresa a la plataforma y registra una problemática local (ej. falta de luminarias) detallando la solicitud.
+2. Almacenamiento en Base de Datos: La causa con sus detalles técnicos queda guardada de manera estructurada y segura en el servidor.
+3. Recolección de respaldos: Los vecinos del barrio ingresan a la plataforma, leen la causa y hacen clic en el botón de apoyo de forma segura.
+4. Conteo e incremento: El sistema procesa las solicitudes, valida la autenticidad del apoyo e incrementa el contador público en tiempo real.
+5. Generación del documento formal: Al alcanzar la meta de respaldos, el servidor recopila los datos y genera de forma automática un archivo PDF formalizado listo para descargar y radicar ante las entidades gubernamentales correspondientes.
