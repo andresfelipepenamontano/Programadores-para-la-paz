@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la tarea 1 (el formulario web de reportes) y la tarea 2 (las notificaciones automáticas en Telegram).
+
+¿Por qué son las más importantes?
+Son las más importantes porque constituyen el núcleo del sistema. Sin el formulario no hay datos ni incidencias que procesar, y sin la notificación en Telegram el equipo coordinador no se enteraría a tiempo de las emergencias, perdiendo agilidad para responder.
+
+Definición de "Terminado" (Definition of Done):
+Para mí, significa que una funcionalidad ya aporta valor real y cumple con los siguientes 4 criterios:
+1. Funciona correctamente: El código corre sin errores y hace exactamente lo solicitado.
+2. Fue probada: Se hicieron pruebas de envío y recepción simulando casos reales.
+3. Cumple la seguridad: No expone ningún dato sensible, token ni contraseñas.
+4. Quedó registrada en Git: Los cambios fueron guardados y subidos exitosamente a GitHub.

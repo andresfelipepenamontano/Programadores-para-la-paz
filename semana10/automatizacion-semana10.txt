@@ -1,0 +1,10 @@
+DISEÑO DEL FLUJO EN n8n
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un nodo de 'Webhook' o 'Form trigger' en n8n cuando un ciudadano envía un nuevo reporte a través de la plataforma comunitaria.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje resumido que diga:  ¡Alerta de Veeduría! Se ha registrado un nuevo reporte comunitario en el sistema. Por favor, ingresa al panel de administración para revisar los detalles."
+
+3. ¿Qué información NO debería enviarse por seguridad?
+Por seguridad , jamás se deberian de enviar datos personales del denunciante (nombres completos, números de cédula/identidad, números telefónicos, correos electrónicos ni la dirección exacta de su domicilio). Tampoco se deben incluir contraseñas ni tokens de la base de datos para evitar que filtraciones en el chat comprometan la integridad de la comunidad.

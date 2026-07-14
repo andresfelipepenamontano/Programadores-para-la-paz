@@ -1,0 +1,5 @@
+HISTORIAS DE USUARIO 
+1. [Alta Prioridad] Como ciudadano, quiero reportar una falla en los servicios públicos a través de un formulario web para dejar evidencia del caso con fotos.
+2. [Alta Prioridad] Como coordinador de la veeduría, quiero recibir una notificación automática en Telegram cada vez que se cree un reporte para revisarlo de inmediato.
+3. [Media Prioridad] Como miembro del equipo de control, quiero poder cambiar el estado del reporte (Pendiente / En proceso / Resuelto) para llevar un seguimiento interno ordenado.
+4. [Baja Prioridad] Como vecino del sector, quiero ver un mapa público con los reportes activos de la comunidad para estar enterado de las incidencias del barrio.
