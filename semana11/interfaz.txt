@@ -1,0 +1,13 @@
+DISEÑO DE INTERFAZ DE USUARIO
+
+1. Vista de causas disponibles: 
+La pantalla principal mostrará un panel limpio con tarjetas organizadas cronológicamente. Cada tarjeta presentará el título de la causa, una categoría visual y un extracto breve del reporte comunitario.
+
+2. Formulario para crear una causa:
+Al presionar un botón de "Nueva Causa", se desplegará un formulario sencillo con campos para escribir el título, la descripción detallada y seleccionar una categoría temática mediante una lista desplegable. 
+
+3. Botón para apoyar una causa y Contador de apoyos:
+Al final de cada tarjeta de causa habrá un botón destacado con la acción "Apoyar Causa". Justo al lado, se ubicará un contador numérico dinámico y visual que indicará la cantidad total de respaldos que ha acumulado esa iniciativa.
+
+4. Enfoque de privacidad:
+La interfaz será completamente clara e intuitiva para promover la participación abierta, pero ocultará de forma estricta cualquier dato privado o de contacto de las personas que crearon o apoyaron las causas.

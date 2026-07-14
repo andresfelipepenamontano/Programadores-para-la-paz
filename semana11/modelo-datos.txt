@@ -1,0 +1,25 @@
+ESTRUCTURA DEL MODELO DE DATOS
+
+Entidad: Causa
+
+Campos principales:
+- id (Número único identificador)
+- titulo (Texto corto)
+- descripcion (Texto largo)
+- categoria (Texto: Infraestructura, Seguridad, Medio ambiente)
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar de forma organizada las diferentes causas y problemáticas comunitarias reportadas por los vecinos que se visualizarán públicamente en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Número único identificador)
+- causa_id (Número que conecta con la Causa apoyada)
+- usuario_anonimizado (Texto o código de usuario seguro)
+- fecha_apoyo (Fecha y hora)
+
+Propósito:
+Registrar y cuantificar el respaldo digital que recibe cada causa comunitaria, permitiendo medir de forma transparente el nivel de prioridad e interés del vecindario.
